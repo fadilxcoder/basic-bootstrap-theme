@@ -1,29 +1,29 @@
-# [Start Bootstrap - Shop Item](https://startbootstrap.com/template/shop-item/)
+# [Start Bootstrap - Small Business](https://startbootstrap.com/template/small-business/)
 
-[Shop Item](https://startbootstrap.com/template/shop-item/) is a basic HTML store item template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+[Small Business](https://startbootstrap.com/template/small-business/) is a responsive marketing landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[![Shop Item Preview](https://assets.startbootstrap.com/img/screenshots/templates/shop-item.png)](https://startbootstrap.github.io/startbootstrap-shop-item/)
+[![Small Business Preview](https://assets.startbootstrap.com/img/screenshots/templates/small-business.png)](https://startbootstrap.github.io/startbootstrap-small-business/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-shop-item/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-small-business/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-shop-item/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-shop-item.svg)](https://www.npmjs.com/package/startbootstrap-shop-item)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-shop-item.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-shop-item)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-shop-item/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-shop-item)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-shop-item/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-shop-item?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-small-business/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-small-business.svg)](https://www.npmjs.com/package/startbootstrap-small-business)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-small-business.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-small-business)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-small-business/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-small-business)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-small-business/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-small-business?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/shop-item/)
-* Install via npm: `npm i startbootstrap-shop-item`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-shop-item.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-shop-item)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/small-business/)
+* Install via npm: `npm i startbootstrap-small-business`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-small-business.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-small-business)
 
 ## Usage
 
@@ -39,7 +39,7 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-shop-item/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/shop-item/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-small-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/small-business/).
 
 ## About
 
@@ -58,4 +58,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-shop-item/blob/gh-pages/LICENSE) license.
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-small-business/blob/gh-pages/LICENSE) license.
